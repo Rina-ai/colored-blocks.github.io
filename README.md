@@ -1,1 +1,1 @@
-# colored-blocks.github.io
+https://rina-ai.github.io/colored-blocks.github.io/

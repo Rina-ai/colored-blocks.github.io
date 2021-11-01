@@ -1,0 +1,31 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+body {
+	min-width: 320px;
+	margin: 0;
+	background-color: #fff;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	line-height: normal;
+	color: #fff;
+}
+
+.container {
+	display: flex;
+
+    max-width: 1137px;
+    min-height: 1098px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+    flex-flow: wrap;
+    justify-content: space-between;
+}
